@@ -2,6 +2,7 @@
   "name": "open-react-template",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://ferraofox.github.io/qvops",
   "dependencies": {
     "classnames": "^2.2.6",
     "lodash": "^4.17.15",
