@@ -1,6 +1,6 @@
 {
-  "name": "open-react-template",
-  "version": "0.1.0",
+  "name": "qvops",
+  "version": "1.1.0",
   "private": true,
   "homepage": ".",
   "proxy": "http://localhost:5000",
